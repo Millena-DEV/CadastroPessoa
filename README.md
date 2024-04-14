@@ -11,6 +11,7 @@ Crud Cadastro de pessoas
  • Instruções sobre como compilar e executar o projeto;
 para compilar usar o serve do tomcat
 • Instruções sobre como executar os testes da solução;
+
 clicar em inicio
 ![image](https://github.com/Millena-DEV/CadastroPessoa/assets/82294729/7eb314f9-364e-4fec-b5dc-05ef9ea6b8c5)
 Clicar em aluno para cadastrar
